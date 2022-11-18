@@ -1,0 +1,12 @@
+profile:
+  id: 630716eec55d8a2f7e513676
+  firstname: Greenwald
+  lastname: ' Ethan'
+  username: ethanmg4
+  email: ethanmg4@illinois.edu
+  access_key: auth0|630716ef0f1006a150c1deed
+  secret_key: JGFyZ29uMmkkdj0xOSRtPTMyNzY4LHQ9NCxwPTQkVXZsVXphT1pPUEVFZFc2Yi83WVM3dyR6cW4xdUJHVEErTjlOY0FYbldKZ0hocjErdzJENmMrbE1uVTB4ZEFFa1Fn
+  affiliation: ECE408
+  team:
+    name: ""
+  role: student
